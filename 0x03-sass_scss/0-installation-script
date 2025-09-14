@@ -1,3 +1,5 @@
 For the installation of SASS, I went to the 0x03-sass_scss and then
 used this code:
     curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+and then used:
+    sudo apt install ruby-sass
